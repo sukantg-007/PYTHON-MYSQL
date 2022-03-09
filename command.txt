@@ -1,0 +1,9 @@
+C:\Users\Vedanta-PC02>python -m pip install mysql-connector-python
+Collecting mysql-connector-python
+  Downloading mysql_connector_python-8.0.28-cp310-cp310-win_amd64.whl (7.2 MB)
+     ---------------------------------------- 7.2/7.2 MB 411.6 kB/s eta 0:00:00
+Collecting protobuf>=3.0.0
+  Downloading protobuf-3.19.4-cp310-cp310-win_amd64.whl (895 kB)
+     ---------------------------------------- 895.5/895.5 KB 382.8 kB/s eta 0:00:00
+Installing collected packages: protobuf, mysql-connector-python
+Successfully installed mysql-connector-python-8.0.28 protobuf-3.19.4
